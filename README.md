@@ -28,4 +28,4 @@ After calculating the BMI, background color changes depending upon the result:
 - Healthy(Colors.green.shade200)
 - OverWeight(Colors.orange.shade200).
 
-![healthy](https://github.com/LugaravlesM/bmi/assets/156414212/03d3f9f6-4047-41f7-8473-23bd2496d974)
+![bmicalculator](https://github.com/LugaravlesM/bmi/assets/156414212/f2dfb332-00bb-4fd9-a5d8-63068d46a1b9)
