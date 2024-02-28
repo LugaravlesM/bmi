@@ -20,3 +20,10 @@ This BMI Calculator app allows users to quickly calculate their BMI by entering 
 3. Enter your weight in kilograms.
 4. Press the "Calculate" button.
 5. View your BMI value and interpretation.
+
+## Display
+
+After calculating the BMI, background color changes depending upon the result: 
+- Underweight(Colors.red.shade200)
+- Healthy(Colors.green.shade200)
+- OverWeight(Colors.orange.shade200).
